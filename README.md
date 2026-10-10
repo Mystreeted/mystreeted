@@ -1,12 +1,10 @@
 
-<sup>still a wip</sup>
-
 <div align="center">
   
-<img src="https://github.com/user-attachments/assets/068b9c50-1a0f-47d6-b9ec-647e98ead537" alt="Description" width="500">
+<img src="https://github.com/user-attachments/assets/4365a747-5332-4257-b6e0-46576269dc85" alt="Description" width="500">
 
 
-![](https://komarev.com/ghpvc/?username=AutisticDetective&label=᧔o᧓&color=BEB1EE&labelcolor=BEB1EE)
+![](https://komarev.com/ghpvc/?username=AutisticDetective&label=᧔o᧓&color=20b302&labelcolor=20b302)
 
 <details>
   <summary>Titles</summary>
@@ -21,5 +19,6 @@
 [pt-contributers](https://github.com/pt-contributers)
 </details>
 
- [Ata](https://bloomingvision.atabook.org)<sub>book</sub>. [Straw](https://aiyusu.straw.page)<sub>page … WIP!</sub>
+ [Ata](https://bloomingvision.atabook.org)<sub>book</sub> . [Straw](https://aiyusu.straw.page)<sub>page</sub>
 </div>
+
